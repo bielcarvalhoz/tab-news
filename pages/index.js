@@ -98,7 +98,7 @@ export default function Home() {
 
             {/* Mensagem super profissional */}
             <Message>
-                Gabriel é gay <Heart>👧</Heart>
+                Eu te amo <Heart>❤️</Heart>
             </Message>
         </Background>
     );
